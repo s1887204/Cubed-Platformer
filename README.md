@@ -1,5 +1,5 @@
 # Cubed-Platformer
 
-A basic platformer made for my school.
+A regular platformer featuring: Dialouge, and story for school.
 
-Just a demo
+The website contains a demo, but to download a full version, you need to go to Releases. 
