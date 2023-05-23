@@ -1,5 +1,5 @@
 # Cubed-Platformer
-# As of April 17, 2023, the project is currently being converted to a working Godot 4.0 project, meaning it might be a long time until a new version comes out. I don't have an estimate, but if I had to guess, I believe a working 4.0 version will be out in June 1st or before that.
+## As of April 17, 2023, the current GODOT project is currently being transferred to a working Godot 4.0 project. There is no estimate on when it will come out, might be next year, might be this year. Please be patient.
 
 A regular platformer featuring: Dialouge, and story for school.
 
